@@ -1,0 +1,4 @@
+DOWNLOADS_DIR = 'Downloads'
+USERS_DIR = 'users'
+POLL_TIME = 40
+QUALITY = '480p'
